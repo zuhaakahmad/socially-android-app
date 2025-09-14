@@ -18,8 +18,6 @@ A social media Android application built with Kotlin featuring Instagram-like in
 - **UI**: XML layouts with LinearLayout and RelativeLayout
 - **Architecture**: Activity-based navigation
 
-## Screenshots
-(Add screenshots of your app here)
 
 ## Installation
 1. Clone this repository
